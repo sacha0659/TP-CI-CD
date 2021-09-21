@@ -6,7 +6,7 @@
 <script>
 import HelloWorld from "./components/HelloWorld.vue";
 
-const test = '';
+
 
 export default {
   name: 'App',
